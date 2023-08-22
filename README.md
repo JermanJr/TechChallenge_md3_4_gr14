@@ -1,6 +1,6 @@
 # TechChallenge_md3_4_gr14
 
-<h1> TechChallenge Módulos 3 e 4 Grupo 14 
+<h1> TechChallenge Módulos 3 e 4 Grupo 14 </h1>h1>
 
 Descriçao:
 Imagine que você foi escalado para um time de investimentos e precisará realizar um modelo preditivo com dados da IBO-VESPA (Bolsa de valores) para criar uma série temporal e prever diariamente o fechamento da base.
