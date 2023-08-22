@@ -2,7 +2,7 @@
 
 <h1> TechChallenge Módulos 3 e 4 Grupo 14 </h1>
 
-Descriçao:
+###Descriçao:
 Imagine que você foi escalado para um time de investimentos e precisará realizar um modelo preditivo com dados da IBO-VESPA (Bolsa de valores) para criar uma série temporal e prever diariamente o fechamento da base.
 
 Para isso utilize a base de dados contida no site da investing e selecione o período "diário", com o intervalo de tempo que achar adequado.
@@ -14,8 +14,8 @@ Você precisará demonstrar para o time de investimentos:
 
 DICA - Utilize o maior intervalo de tempo possível para atingir maior acuracidade no modelo preditivo
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-Fonte dados histórica do indice ibovespa, site investing.
+
+###Fonte dados histórica do indice ibovespa, [site investing](https://br.investing.com/indices/bovespa-historical-data).
 Peiodo : 01.01.200 a 18.08.2023
 https://br.investing.com/indices/bovespa-historical-data
+
