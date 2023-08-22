@@ -15,7 +15,9 @@ Você precisará demonstrar para o time de investimentos:
 DICA - Utilize o maior intervalo de tempo possível para atingir maior acuracidade no modelo preditivo
 
 
-###Fonte dados histórica do indice ibovespa, [site investing](https://br.investing.com/indices/bovespa-historical-data).
-Peiodo : 01.01.200 a 18.08.2023
-https://br.investing.com/indices/bovespa-historical-data
+###Fonte dados histórica do indice ibovespa, [site investing][1]
+[1]:https://br.investing.com/indices/bovespa-historical-data "Investing'.
+Período analisado: 01.01.200 a 18.08.2023
+
+>https://br.investing.com/indices/bovespa-historical-data
 
